@@ -1,0 +1,49 @@
+#btn-search, #btn-add, #btn-create_account {
+    display: block;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+#btn-search {
+    font-weight: 900;
+    color: green;
+    border:2px solid green;
+    border-radius: 20px;
+    /* height: 25px; */
+    width: 100px;
+    /* display: block; */
+}
+
+#btn-add {
+    /* font-size: 25px;
+    font-weight: lighter; */
+    color: white;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    /* height: 40px; */
+    /* display: block; */
+}
+
+#btn-create_account {
+    /* font-weight: light; */
+    color: white;
+    background-color: rgba(44, 96, 207, 0.862);
+    border: 2px solid blue;
+    box-shadow: 5px 5px 5px black;
+    /* height: 30px; */
+    width: 150px;
+    /* display: block; */
+
+}
+
+
+h1, h2 {
+    display: inline-block;
+    background-color: cyan;
+    width: 200px;
+}
+label, input {
+    display: block;
+}
